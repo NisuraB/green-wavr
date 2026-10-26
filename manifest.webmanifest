@@ -1,0 +1,16 @@
+{
+  "name": "Green Wave",
+  "short_name": "Green Wave",
+  "description": "Run every traffic light at busy intersections.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#1d2a1f",
+  "theme_color": "#16808a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
